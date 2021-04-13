@@ -1,0 +1,37 @@
+.main {
+  height: 100%;
+}
+.background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: -3px;
+  z-index: -1;
+  filter: blur(2px) drop-shadow(16px 16px 10px black) saturate(50%)
+    brightness(0.4);
+  -webkit-filter: blur(2px) drop-shadow(16px 16px 10px black) saturate(50%)
+    brightness(0.4);
+}
+.home {
+  color: white;
+  margin-top: 20%;
+  margin-left: 5%;
+}
+.text-section {
+  text-shadow: 0.125em 0.125em 0 rgb(0 0 0 / 20%);
+}
+.text-section a {
+  color: white;
+  text-decoration: underline;
+}
+.text-section a:hover {
+  color: #d3d7db;
+  text-decoration: underline;
+}
+.button-section a {
+  margin: 1%;
+}
+.guest {
+  display: none;
+}

@@ -1,0 +1,8 @@
+.search {
+  position: absolute;
+  z-index: 10;
+  width: 25%;
+}
+.search input {
+  width: 100%;
+}

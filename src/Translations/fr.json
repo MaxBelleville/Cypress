@@ -1,0 +1,81 @@
+{
+    "Nav": {
+      "info": "information",
+      "about": "environ",
+      "faq": "FAQ",
+      "contact": "contact",
+      "signLog": "Inscrivez-vous/Connectez-vous",
+      "sign": "s'enregistrer",
+      "log": "Connexion",
+      "out": "se déconnecter",
+      "acc": "compte",
+      "lang": "Langue",
+      "en": "Anglais",
+      "fr": "Français"
+    },
+    "Home": {
+      "title": "Système de déclaration et de solution des problèmes de la Ville de Toronto",
+      "desc": "Toronto a besoin de votre aide pour mantaining et améliorer la ville pour la garder en sécurité pour tout le monde.",
+      "descNext": "En savoir plus à ce sujet ",
+      "h": "ici.",
+      "view": "Afficher les messages",
+      "create": "Créer des messages"
+    },
+        "About": {
+          "1": "Système de déclaration et de solution des problèmes de la Ville de Toronto ou Cypress est un outil de billetterie tout dommage, défaut ou problème général de la ville.",
+          "2": " Il permet à tout citoyen de Toronto de signaler tout problème lié à la ville afin de s’assurer que la ville est aussi sécuritaire que possible."
+        },
+        "FAQ": {
+          "q1": "Q: Comment créer un rapport ?",
+          "q2": "Q: Les officals gouvernementaux seront-ils notifed?",
+          "q3": "Q: Mon rapport sera-t-il réellement résolu?",
+          "q4": "Q: Comment vais-je?",
+          "a1": "A: Une fois que vous vous inscrivez, vous pouvez créer un rapport via le bouton « Créer un rapport »",
+          "a2": "A: Non, il s’agit d’un projet d’école pas besoin de spam",
+          "a3": "A: Non, il n’y a pas de système de billetterie en place. Amusez-vous.",
+          "a4": "R: Merci beaucoup d’avoir demandé"
+        },
+        "Contact": {
+          "info": "Si vous avez et des problèmes ou des préoccupations s’il vous plaît envoyer un fakeemail@cypress.ca.",
+          "soc": "Ou vous pouvez nous joindre via nos médias sociaux."
+        },
+        "Reg": {
+          "fn": "prénom",
+          "ln": "nom",
+          "ent": "entrer ",
+          "addr": "adresse",
+            "phone": "numéro de téléphone",
+            "dig": "Chiffres seulement",
+            "pass": "mot de passe",
+            "terms": "J’accepte les conditions générales",
+            "reg": "registre",
+            "e1": "Numéro non sélectionné",
+            "e2": "Emplacement non sélectionné",
+            "e3": "Le mot de passe est trop court",
+            "e4": "Mot de passe manquant au moins un caractère spécial",
+            "e5": "Mot de passe manquant au moins un chiffre",
+            "e6": "Numéro de téléphone à court",
+            "e7": "Pas un e-mail valide",
+            "e8": "L’utilisateur existe déjà",
+            "up": "mettre à jour",
+            "badP": "Mot de passe incorrect",
+            "del": "supprimer"
+        },
+        "Post": {
+                "l1": "Défaillance de l’utilitaire",
+                "l2": "Effondrement d’arbre",
+                "l3": "Vandalisme de propriété de ville",
+                "l4": "Rues inondées",
+                "l5": "Trous de pot",
+                "l6": "Croissance des moisissures et des spores",
+                "l7": "Rues érodées",
+                "l8": "Ordures et barrages routiers",
+                "desc": "description",
+                "addr": "Entrez une adresse",
+                "myP": "Mes messages",
+                "otherP": "Messages d’autres utilisateurs",
+                "e1": "Numéro non sélectionné",
+                "e2": "Emplacement non sélectionné",
+                "create": "créer"
+        }
+  }

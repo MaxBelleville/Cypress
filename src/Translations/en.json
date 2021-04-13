@@ -1,0 +1,81 @@
+{
+    "Nav": {
+        "info":"Information",
+        "about": "About",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "signLog": "Sign Up/Login",
+        "sign": "Sign up",
+        "log": "Login",
+        "out": "Log out",
+        "acc": "Account",
+        "lang": "Language",
+        "en": "English",
+        "fr": "French"
+    },
+    "Home": {
+        "title":"City of Toronto Problem Reporting and Solution System",
+        "desc":"Toronto needs your help in mantaining and improving the city to keep it safe for everyone.",
+        "descNext":"Read more about it ",
+        "h":"here.",
+        "view":"View Posts",
+        "create":"Create Post"
+    },
+    "About":{
+        "1": "City of Toronto Problem Reporting and Solution System or Cypress is a ticketing tool any city damages, faults or general issues.",
+        "2": " It allows any toronto based citizen to report of any issues related to the city to ensure that the city be as safe as possible."
+    },
+    "FAQ":{
+        "q1":"Q: How do I create a report?",
+        "q2":"Q: Will goverment officals be notifed?",
+        "q3":"Q: Will my report actually be solved?",
+        "q4":"Q: How am I doing?",
+        "a1":"A: Once you register you then can create a report via the \"Create report\" button",
+        "a2":"A: No this is a school project no need for spam emails",
+        "a3":"A: No there is no ticket system in place. Have fun.",
+        "a4":"A: Great thanks for asking"
+    },
+    "Contact":{
+        "info": "If you have and issues or concerns please email: fakeemail@cypress.ca.",
+        "soc": "Or you can reach us via our social media."
+    },
+    "Reg":{
+        "fn":"First Name",
+        "ln":"Last Name",
+        "ent":"Enter ",
+        "addr":"Address",
+        "phone":"Phone Number",
+        "dig":"Digits Only",
+        "pass":"Password",
+        "terms":"I accept the Terms and Conditions",
+        "reg":"Register",
+        "e1": "Passwords do not match or are empty",
+        "e2": "Did not accept terms and conditions",
+        "e3": "Password is too short",
+        "e4": "Password missing at least one special character",
+        "e5": "Password missing at least one digit",
+        "e6": "Phone number to short",
+        "e7": "Not a valid email",
+        "e8": "User already exists",
+        "up":"Update",
+        "badP":"Incorrect password",
+        "del":"Delete"
+    },
+    "Post": {
+        "l1":"Utility Failure",
+        "l2":"Tree Collapse",
+        "l3":"City Property Vandalism",
+        "l4":"Flooded Streets",
+        "l5":"Pot Holes",
+        "l6":"Mould and Spore Growth",
+        "l7":"Eroded Streets",
+        "l8":"Garbage and Roadblocks",
+        "desc":"Description",
+        "addr":"Enter a address",
+        "myP":"My Posts",
+        "otherP":"Other User's Posts",       
+        "e1":"Issue not selected",
+        "e2":"Location not selected",
+        "create":"Create"
+    }
+}
